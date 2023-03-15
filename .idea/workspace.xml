@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88d0fa4c-ccf7-45e9-bf7e-64c284863366" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1f0de600-a747-4233-959b-18f3bf3f7bc2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xUcPcG52048NHyOqa49yyKiNEn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\templates" />
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\static\img" />
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\templates\error" />
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\static\js" />
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\templates\subpage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\static\ico" />
+      <recent name="D:\DevelopmentProject\JavaEE\springboot-filemanagement\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootFilemanagementApplication">
+    <configuration name="tewst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alf.config.tewst" />
+      <module name="springboot-filemanagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alf.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootFilemanagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-filemanagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alf.SpringbootFilemanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tewst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\AR\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88d0fa4c-ccf7-45e9-bf7e-64c284863366" name="Default Changelist" comment="" />
+      <created>1630413087387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630413087387</updated>
+      <workItem from="1630413089783" duration="1764000" />
+      <workItem from="1630414988778" duration="4153000" />
+      <workItem from="1630432291652" duration="97000" />
+      <workItem from="1630465068692" duration="7472000" />
+      <workItem from="1630476166284" duration="14983000" />
+      <workItem from="1630493059872" duration="6750000" />
+      <workItem from="1630500966417" duration="19875000" />
+      <workItem from="1630555862348" duration="32110000" />
+      <workItem from="1630637175898" duration="47354000" />
+      <workItem from="1630692680157" duration="4179000" />
+      <workItem from="1630723009552" duration="42798000" />
+      <workItem from="1630819393720" duration="13437000" />
+      <workItem from="1630833354725" duration="27737000" />
+      <workItem from="1630894172406" duration="25103000" />
+      <workItem from="1630941770226" duration="957000" />
+      <workItem from="1630942757496" duration="6054000" />
+      <workItem from="1630984307189" duration="26835000" />
+      <workItem from="1631017134049" duration="17883000" />
+      <workItem from="1631058673718" duration="29974000" />
+      <workItem from="1631111360998" duration="153000" />
+      <workItem from="1631153140297" duration="2419000" />
+      <workItem from="1631164462191" duration="784000" />
+      <workItem from="1631182804437" duration="437000" />
+      <workItem from="1631195748204" duration="4131000" />
+      <workItem from="1631239940364" duration="1311000" />
+      <workItem from="1631258447473" duration="63000" />
+      <workItem from="1631259076351" duration="67000" />
+      <workItem from="1631260012235" duration="2677000" />
+      <workItem from="1631262831837" duration="441000" />
+      <workItem from="1631263301783" duration="774000" />
+      <workItem from="1631280714667" duration="8409000" />
+      <workItem from="1631332517696" duration="7567000" />
+      <workItem from="1631344948444" duration="2880000" />
+      <workItem from="1631348512104" duration="2288000" />
+      <workItem from="1631356340693" duration="7000" />
+      <workItem from="1631409621916" duration="349000" />
+      <workItem from="1631541620345" duration="393000" />
+      <workItem from="1631584204238" duration="9954000" />
+      <workItem from="1631755065879" duration="370000" />
+      <workItem from="1631845872759" duration="644000" />
+      <workItem from="1631872372367" duration="97000" />
+      <workItem from="1631872882051" duration="1200000" />
+      <workItem from="1631877467402" duration="4402000" />
+      <workItem from="1631883265888" duration="633000" />
+      <workItem from="1631937931478" duration="2429000" />
+      <workItem from="1631953476772" duration="1399000" />
+      <workItem from="1631955487771" duration="602000" />
+      <workItem from="1632036345020" duration="2491000" />
+      <workItem from="1677501830299" duration="2390000" />
+      <workItem from="1677524820861" duration="579000" />
+      <workItem from="1677525429423" duration="90000" />
+      <workItem from="1677525541682" duration="3442000" />
+      <workItem from="1677596508924" duration="1557000" />
+      <workItem from="1677696891005" duration="23000" />
+      <workItem from="1678003593111" duration="636000" />
+      <workItem from="1678094346089" duration="737000" />
+      <workItem from="1678334192029" duration="2000" />
+      <workItem from="1678542315062" duration="444000" />
+      <workItem from="1678877051432" duration="630000" />
+      <workItem from="1678877831444" duration="370000" />
+      <workItem from="1678878851816" duration="1879000" />
+      <workItem from="1678880789551" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
